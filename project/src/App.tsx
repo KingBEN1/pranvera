@@ -29,7 +29,7 @@ function App() {
           </main>
 
           <footer className="py-8 text-center text-gray-500 text-sm">
-            <p>&copy; {new Date().getFullYear()} Pranvera Hyseni. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Pranvera Hyseni. All rights reserved. <br /><a href="https://creativespaceks.vercel.app/" target="_blank" rel="noopener noreferrer" className="underline" > Created by Creative Space</a></p>
           </footer>
         </div>
       </div>
